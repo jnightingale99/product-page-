@@ -1,0 +1,11 @@
+.nav-bar {
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 500;
+  width: 400px;
+  height: 200px;
+}
+
+ @media (min-height: 800px) p {
+    font-size: 20px;
